@@ -1,3 +1,4 @@
+"""Team Computer Whizzes project Air-Canvas"""
 import numpy as np
 import cv2
 from collections import deque
